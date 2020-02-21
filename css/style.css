@@ -1,0 +1,319 @@
+.box{
+width: 100%;
+height: 124px;
+display: flex;
+
+}
+.menu{
+    width: 1300px;
+    height: 124px;
+    display: flex;
+    justify-content:space-evenly;
+    }
+.menu1{
+    font-family: ﻿Wisdom-Script, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 26pt;
+color:gold;
+text-align: left;
+width: 520px;
+left:407px;
+right: 200px;
+}
+.menu2{
+    font-family: ﻿NexaSlab-Regular, ﻿Montserrat-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 14pt;
+color: gold;
+text-align: center;
+
+}
+.menu3{
+    font-family: ﻿Montserrat-Regular, ﻿ProximaNova-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 14pt;
+color: rgb(0, 0, 0);
+text-align: center;
+
+}
+.text{
+    height: 184px;
+    width: 100%;
+    text-align: center;
+}
+.text2{
+
+font-family: ﻿RobotoSlab-Bold, ﻿Montserrat-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 40pt;
+color: rgba(34, 34, 34, 255);
+text-align: center;
+height: 38px;
+}
+.text3{
+    font-family: ﻿DroidSerif-Italic, ﻿RobotoSlab-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 16pt;
+color: rgba(119, 119, 119, 255);
+text-align: center;
+}
+.icons0{
+    width:1300px;
+   height: 351px;
+   display: flex;
+ justify-content:flex-start;
+}
+.div{
+width:540px;
+height: 362px;
+justify-content:center;
+display: flex;
+position:static;
+}
+.icons{
+    width: 68px;
+    height:67px;
+    border: 2px solid gold;
+    border-radius: 50%;
+margin-left: 90px;
+}
+
+.icon4{
+    width: 40px;
+    height: 39px;
+    padding: 10px;
+margin-left: 3px;
+}
+.tx{
+width: 370px;
+
+float: left 30px;
+}
+
+
+.text5{
+    font-family: ﻿RobotoSlab-Bold, ﻿Montserrat-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+    font-size: 18pt;
+    color: rgba(34, 34, 34, 255);
+    text-align:center;
+width: 270px;
+height: 14px;
+justify-content: center;
+margin-right: 150px;
+}
+.text6{
+    font-family: ﻿RobotoSlab-Bold, ﻿RobotoSlab-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 14pt;
+color: rgba(119, 119, 119, 255);
+text-align: center;
+justify-content: center;
+width: 284px;
+height: 64px;
+}
+.w{
+width: 69px;
+}
+.div2{
+    width:285px;
+    float: right;
+    height: 312px;
+    display: flex;
+    }
+    
+    
+    
+.icons2{
+    width: 68px;
+    height:67px;
+    border: 2px solid gold;
+    border-radius: 50%;
+    margin-left: 103px;
+}
+.d2{
+  height: 72px;  
+width: 71px;
+justify-content: center;
+}
+.icon7{
+    width: 40px;
+    height: 39px;
+    margin-top: 10px;
+margin-left: 12px;
+ 
+}
+.text8{
+    font-family: ﻿RobotoSlab-Bold, ﻿Montserrat-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+    font-size: 18pt;
+    color: rgba(34, 34, 34, 255);
+width: 270px;
+height: 14px;
+justify-content: center;
+margin-left: 56px;
+}
+.text9{
+    font-family: ﻿RobotoSlab-Bold, ﻿RobotoSlab-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+    font-size: 14pt;
+    color: rgba(119, 119, 119, 255);
+    text-align: center;
+width: 284px;
+height: 57px;
+justify-content:start;
+
+}
+
+.div3{
+    width:285px;
+    height: 362px;
+    justify-content:center;
+    display: flex;
+    margin-left: 350px;
+    }
+    .icons10{
+        width: 68px;
+        height:67px;
+        border: 2px solid gold;
+        border-radius: 50%;
+    margin-left: 90px;
+    }
+    .d2{
+        height: 72px;  
+      width: 71px;
+      justify-content: center;
+      
+      }   
+    .icon11{
+        width: 29px;
+        height: 30px;
+        padding: 15px;
+    margin-left: 3px;
+    }
+    .tx{
+    width: 370px;
+    
+    float: left 30px;
+    }
+    
+    
+    .text12{
+        font-family: ﻿RobotoSlab-Bold, ﻿Montserrat-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+        font-size: 18pt;
+        color: rgba(34, 34, 34, 255);
+        text-align:center;
+    width: 270px;
+    height: 14px;
+    justify-content: center;
+    margin-right: 150px;
+    }
+    .text13{
+        font-family: ﻿RobotoSlab-Bold, ﻿RobotoSlab-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+    font-size: 14pt;
+    color: rgba(119, 119, 119, 255);
+    text-align: center;
+    justify-content: center;
+    width: 284px;
+    height: 64px;
+    }
+    .w2{
+    width: 69px;
+
+    }
+
+    .dark{
+        width: 1340px;
+        height: 677px;
+        background-color: black;
+     
+
+    }
+    .text16{
+ height: 100px;
+ width: 1000px;
+  text-align: center;
+  padding: 105px;
+        } 
+    .text20{
+        font-family: ﻿RobotoSlab-Bold, ﻿Montserrat-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+        font-size: 40pt;
+        color: rgba(255, 255, 255, 255);
+        text-align: right 50px;
+       height: 24px;
+       margin-left: 99px;
+    }
+    .text30{
+        font-family: ﻿DroidSerif-Italic, ﻿RobotoSlab-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+        font-size: 16pt;
+        color: rgba(119, 119, 119, 255);
+        text-align: center;
+    margin-left: 99px;
+    }
+    .dark2{
+    width: 1300px; 
+padding: 20px;
+display: flex; 
+    }
+    .dark60{
+display: flex;
+    justify-content: center;
+    }
+    .dark70{
+    width: 481px;
+    height: 270px;
+    }
+    .form{
+        width: 481px;
+        justify-content: center;
+    }
+    .dark3{
+        font-family: ﻿Montserrat-Bold, ﻿ChunkFive-Roman, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 14pt;
+color: rgba(187, 187, 187, 255);
+text-align: left;
+width: 450px;
+height: 50px;
+margin-left: 170px;
+    }
+    .p1{
+height: 28px;
+    }
+    .dark4{
+        font-family: ﻿Montserrat-Bold, ﻿ChunkFive-Roman, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 14pt;
+color: rgba(187, 187, 187, 255);
+text-align: left;
+width: 450px;
+height: 50px;
+margin-left: 170px;
+    }
+    .p{
+        height: 25px;
+    }
+   
+    .dark5{
+        font-family: ﻿Montserrat-Bold, ﻿ChunkFive-Roman, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 14pt;
+color: rgba(187, 187, 187, 255);
+text-align: left;
+width: 450px;
+height: 50px;
+margin-left: 170px;
+    }   
+
+    .dark6{
+
+margin-left: 800px;
+  
+    }
+    .form1{
+        width: 481px;
+        justify-content: center;
+    }
+    .dark100{
+        width:481px;
+       height: 272px;
+       justify-content: center;
+       display: flex;
+    }
+.dark7{
+    font-family: ﻿Montserrat-Bold, ﻿ChunkFive-Roman, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 14pt;
+color: rgba(187, 187, 187, 255);
+text-align: left;
+width: 455px;
+height: 210px;
+justify-content: center;
+}
