@@ -5,8 +5,8 @@ display: flex;
 
 }
 .menu{
-    width: 1300px;
-    height: 124px;
+    width: 100%;
+    height: 10%;
     display: flex;
     justify-content:space-evenly;
     }
@@ -15,7 +15,7 @@ display: flex;
 font-size: 26pt;
 color:gold;
 text-align: left;
-width: 520px;
+width: 35%;
 left:407px;
 right: 200px;
 }
@@ -45,25 +45,26 @@ font-size: 40pt;
 color: rgba(34, 34, 34, 255);
 text-align: center;
 height: 38px;
+width: 100%;
 }
 .text3{
     font-family: ﻿DroidSerif-Italic, ﻿RobotoSlab-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
 font-size: 16pt;
 color: rgba(119, 119, 119, 255);
 text-align: center;
+width: 100%;
 }
 .icons0{
-    width:1300px;
+    width:100%;
    height: 351px;
    display: flex;
  justify-content:flex-start;
 }
 .div{
-width:540px;
+width:40%;
 height: 362px;
-justify-content:center;
-display: flex;
-position:static;
+justify-content: center;
+display:flex ;
 }
 .icons{
     width: 68px;
@@ -126,8 +127,6 @@ width: 69px;
 }
 .d2{
   height: 72px;  
-width: 71px;
-justify-content: center;
 }
 .icon7{
     width: 40px;
@@ -214,15 +213,12 @@ justify-content:start;
     }
 
     .dark{
-        width: 1340px;
+        width: 100%;
         height: 677px;
         background-color: black;
-     
-
-    }
+    } 
     .text16{
  height: 100px;
- width: 1000px;
   text-align: center;
   padding: 105px;
         } 
@@ -230,9 +226,10 @@ justify-content:start;
         font-family: ﻿RobotoSlab-Bold, ﻿Montserrat-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
         font-size: 40pt;
         color: rgba(255, 255, 255, 255);
-        text-align: right 50px;
+        text-align: right 50%;
        height: 24px;
        margin-left: 99px;
+       
     }
     .text30{
         font-family: ﻿DroidSerif-Italic, ﻿RobotoSlab-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
@@ -240,23 +237,20 @@ justify-content:start;
         color: rgba(119, 119, 119, 255);
         text-align: center;
     margin-left: 99px;
+    
     }
-    .dark2{
-    width: 1300px; 
-padding: 20px;
-display: flex; 
-    }
-    .dark60{
-display: flex;
-    justify-content: center;
-    }
+    
+    
+
+    
+
     .dark70{
-    width: 481px;
-    height: 270px;
+    width: 100%;
+    display: flex;
+    
     }
     .form{
         width: 481px;
-        justify-content: center;
     }
     .dark3{
         font-family: ﻿Montserrat-Bold, ﻿ChunkFive-Roman, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
@@ -299,14 +293,7 @@ margin-left: 800px;
   
     }
     .form1{
-        width: 481px;
-        justify-content: center;
-    }
-    .dark100{
-        width:481px;
-       height: 272px;
-       justify-content: center;
-       display: flex;
+  width: 481px;   
     }
 .dark7{
     font-family: ﻿Montserrat-Bold, ﻿ChunkFive-Roman, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
@@ -316,4 +303,5 @@ text-align: left;
 width: 455px;
 height: 210px;
 justify-content: center;
+float: left;
 }
